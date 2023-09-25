@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Firstly, you can run this command to make the typescript file npx create-react-app (file name) --template typescript
+and your whole file will be set up.
+
+You need to add this command this:
+npm i @wormhole-foundation/wormhole-connect
 
 ## Available Scripts
 
